@@ -14,6 +14,12 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+The final data includes:
+======================================
+- The activity name
+- The id of the subject
+- The average of thier peformance across the given metrics
+
 The dataset includes the following files:
 =========================================
 
